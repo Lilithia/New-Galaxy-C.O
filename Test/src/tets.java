@@ -5,6 +5,7 @@ public class tets {
 			
 		System.out.println("GIT ES GEHT! :D");
 		int x;
+		int p;
 	}
 
 }
