@@ -3,7 +3,7 @@ public class tets {
 	
 	public void  PENIS() {
 			
-		System.out.println("GIT PENIS :D");
+		System.out.println("GIT ES GEHT! :D");
 		
 	}
 
